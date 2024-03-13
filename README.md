@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on BackEnd Developer<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Nodejs,React<br>💬 Ask me about<br>⚡ Fun fact
+<p>Hello! I'm Sai Htoo Lwin</p>
+🔭 I’m currently working on BackEnd Developer<br>🌱 I’m currently learning Nodejs,React<br>
 
 
 # 💻 Tech Stack:
