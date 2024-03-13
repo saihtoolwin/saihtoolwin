@@ -1,5 +1,5 @@
 # 💫 About Me:
-<p>Hello! I'm Sai Htoo Lwin</p>
+<h2>Hello! I'm Sai Htoo Lwin</h2>
 🔭 I’m currently working on BackEnd development<br>🌱 I’m currently learning Nodejs,React<br>
 
 
