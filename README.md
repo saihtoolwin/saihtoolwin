@@ -1,6 +1,6 @@
 # 💫 About Me:
-<h2>Hello! I'm Sai Htoo Lwin</h2>
-🔭 I’m currently working on BackEnd development<br>🌱 I’m currently learning Nodejs,React<br>
+<h1>Hello! I'm Sai Htoo Lwin.</h1>
+🔭 I’m currently working on BackEnd development.<br>🌱 I’m currently learning Nodejs,React.<br>
 
 
 # 💻 Tech Stack:
