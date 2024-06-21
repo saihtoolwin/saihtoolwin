@@ -1,5 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Photoshop&size=25&pause=1000&color=00F789&background=76FF9E00&center=true&vCenter=true&random=false&width=500&height=80&lines=Greetings!+%F0%9F%8C%9F;+I'm+Sai+Htoo+Lwin+.+.+.;+Wonderful+to+see+you!" alt="Typing SVG" /></a>
-<hr>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F79A&center=true&vCenter=true&random=false&width=500&height=100&lines=Hello%2C+World!+%F0%9F%8C%8D;I'm+Sai+Htoo+Lwin+.+.+.;Delighted+to+meet+you!" alt="Typing SVG" /></a>
+
 🚀 Enhancing backend efficiency and scalability for web apps.<br><br>⚡ Fun fact: I secretly dance with joy when faced with a front-end challenge! hee..hee..💃💻✨
 
 # 💻 Tech Stack:
