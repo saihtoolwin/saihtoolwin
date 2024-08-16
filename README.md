@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F79A&center=true&vCenter=true&random=false&width=500&height=100&lines=Hello%2C+World!+%F0%9F%8C%8D;I'm+Sai+Htoo+Lwin+.+.+.;Delighted+to+meet+you!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Honk&size=80&pause=1000&center=true&vCenter=true&width=805&height=400&lines=Hello+.+.+.;I'm+Sai+Htoo+Lwin.;Let's+build+something+amazing+together!" alt="Typing SVG" /></a>
 
 🚀 Enhancing backend efficiency and scalability for web apps.<br><br>⚡ Fun fact: I secretly dance with joy when faced with a front-end challenge! hee..hee..💃💻✨
 
